@@ -1,6 +1,12 @@
 ### Hi there 👋  I am  Sachin Tikoo
+
+
 🔭I have a strong interest in cutting-edge technologies, such as automation, web development, cloud computing, DevOps, and artificial intelligence. In these areas, I'm always learning and researching.
+
+
 🌱 Right now, I'm concentrating on mastering data science to improve my abilities and expertise.
+
+
 👯 I'm also excited to work with others on fascinating machine learning, statistics, and programming projects. Together, let's make something incredible!
 
 
